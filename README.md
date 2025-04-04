@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I’m @guilhermerodrigu3s<br>👀 I’m interested in front-end development<br>🌱 I’m currently learning HTML and CSS<br>💞️ I’m looking to collaborate on Web/Apps Development<br>📫 How to reach me guiartstuff@gmail.com<br>😄 Pronouns: He/Him
 
 
